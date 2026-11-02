@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🚀 My Projects
 
-<!--
-**sanjana-prasad11/sanjana-prasad11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 1. Attendance Management System using TQM
+- Developed using Python and SQLite.
+- Desktop application using PySide6.
+- Includes student, teacher and attendance management.
+- Focuses on Total Quality Management.
 
-Here are some ideas to get you started:
+### 2. TravelDesk – Travel Agent SaaS
+- Developed using HTML, CSS and JavaScript.
+- Backend using Node.js and Express.
+- Database: MySQL.
+- Designed for travel agency management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
